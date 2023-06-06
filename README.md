@@ -1,4 +1,4 @@
-# Hello there, my name is Marvin 🫡
+# Hello there, my name is Marvin 
 ## I'm from Hamburg, the most beautiful City in the World.🌍
 ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
