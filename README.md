@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m a Web-Developer from Hamburg!
-- ⚽️ My Hobbies are Sport, reading Books and spend Time with my Family.
+- ⚽️ My Hobbies are Sport and spend Time with my Family.
 
 
 
